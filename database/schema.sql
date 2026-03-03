@@ -1,0 +1,2 @@
+-- Use the schema you already created earlier
+-- Tables: users, incomes, expenses, saving_goals, saving_transactions
