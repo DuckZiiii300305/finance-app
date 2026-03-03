@@ -58,7 +58,6 @@ CREATE TABLE incomes (
 
 -- =====================================
 -- TABLE: expenses
--- (Đúng cấu trúc bạn gửi)
 -- =====================================
 CREATE TABLE expenses (
     id INT(11) AUTO_INCREMENT PRIMARY KEY,
@@ -168,7 +167,6 @@ CREATE TABLE incomes (
 
 -- =====================================
 -- TABLE: expenses
--- (Đúng cấu trúc bạn gửi)
 -- =====================================
 CREATE TABLE expenses (
     id INT(11) AUTO_INCREMENT PRIMARY KEY,
